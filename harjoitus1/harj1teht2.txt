@@ -1,0 +1,10 @@
+a) 
+PiirraYmpyra(int halkaisija)
+PiirraKolmio(int sivunpituus)
+AnnaVari()
+
+b)
+NaytaOsallistujat()
+NaytaNimi()
+NaytaNumero()
+
